@@ -7,3 +7,7 @@
 3. https://kshitijkutumbe.medium.com/ai-agents-at-work-automating-complex-it-incident-management-with-crewai-a-deep-dive-6fd6ad8f2285
 4. https://medium.com/@girimanaskumar1998/crewai-a-guide-with-examples-of-multi-ai-agent-systems-061e807f5981
 5. https://medium.com/@danushidk507/crewai-ai-agent-9a1684064094
+
+
+# GithubExamples
+1. https://github.com/crewAIInc/crewAI-examples/blob/main/job-posting/src/job_posting/crew.py
