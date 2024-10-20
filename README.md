@@ -13,6 +13,7 @@
 1. https://github.com/crewAIInc/crewAI-examples/blob/main/job-posting/src/job_posting/crew.py
 2. https://www.youtube.com/watch?v=-hHplC_gcSE
 3. https://github.com/rajib76/multi_agent/blob/main/05_agent_of_agents.py
+4. https://github.com/ksm26/Multi-AI-Agent-Systems-with-crewAI/blob/main/L4_tools_customer_outreach.ipynb
 
 
 # Youtube Projects
