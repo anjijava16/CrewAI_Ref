@@ -1,5 +1,8 @@
 # CrewAI_Ref
 
+<img width="1237" alt="image" src="https://github.com/user-attachments/assets/942658d1-7f00-4bfd-950d-8fd5a2210741">
+
+
 
  # Ref
 1. https://kshitijkutumbe.medium.com/mastering-crewai-a-comprehensive-guide-to-automating-content-creation-and-marketing-workflows-with-bb18c94dd0f3
