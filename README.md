@@ -28,3 +28,4 @@
 
 # Meetup
 1. https://medium.com/@gvossos/unlocking-the-power-of-generative-ai-with-web-services-agentic-architectures-and-workflow-ce3cb8338e44
+2. https://medium.com/the-ai-forum/create-a-blog-writer-multi-agent-system-using-crewai-and-ollama-f47654a5e1cd
