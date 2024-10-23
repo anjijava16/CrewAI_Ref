@@ -3,6 +3,9 @@
 <img width="1237" alt="image" src="https://github.com/user-attachments/assets/942658d1-7f00-4bfd-950d-8fd5a2210741">
 
 
+# Usescases
+1. <img width="1216" alt="image" src="https://github.com/user-attachments/assets/0a26e141-e246-49d9-a8d2-b854f196e30b">
+
 
  # Ref
 1. https://kshitijkutumbe.medium.com/mastering-crewai-a-comprehensive-guide-to-automating-content-creation-and-marketing-workflows-with-bb18c94dd0f3
