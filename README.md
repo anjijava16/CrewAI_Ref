@@ -24,3 +24,7 @@
 
 # Youtube Projects
 1. https://www.youtube.com/watch?v=sPzc6hMg7So&t=436s
+
+
+# Meetup
+1. https://medium.com/@gvossos/unlocking-the-power-of-generative-ai-with-web-services-agentic-architectures-and-workflow-ce3cb8338e44
