@@ -29,3 +29,7 @@
 # Meetup
 1. https://medium.com/@gvossos/unlocking-the-power-of-generative-ai-with-web-services-agentic-architectures-and-workflow-ce3cb8338e44
 2. https://medium.com/the-ai-forum/create-a-blog-writer-multi-agent-system-using-crewai-and-ollama-f47654a5e1cd
+
+# Github PHIData Agents Project
+1. https://www.youtube.com/watch?v=_EHLlg1jQyY
+2. https://github.com/phidatahq/phidata/blob/main/cookbook/agents/02_finance_agent.py
